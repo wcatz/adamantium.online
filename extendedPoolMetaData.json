@@ -1,13 +1,13 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://adamantium.online/images/favicons/favicon.ico",
+        "url_png_icon_64x64": "https://adamantium.online/images/sun.png",
         "url_png_logo": "https://adamantium.online/images/sun.jpg",
         "location": "New Hampshire, USA",
         "social": {
             "twitter_handle": "OTG_WCat",
-            "telegram_handle": "WCat [OTG]",
+            "telegram_handle": "WCatz",
             "discord_handle": "WCat#6737",
-            "github_handle": "WCat"
+            "github_handle": "wcatz"
         },
         "about": {
             "me": "https://pi-pool.adamantium.online/",
