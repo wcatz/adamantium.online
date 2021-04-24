@@ -1,0 +1,28 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://adamantium.online/images/favicons/favicon.ico",
+        "url_png_logo": "https://adamantium.online/images/sun.jpg",
+        "location": "New Hampshire, USA",
+        "social": {
+            "twitter_handle": "OTG_WCat",
+            "telegram_handle": "WCat [OTG]",
+            "discord_handle": "WCat#6737",
+            "github_handle": "WCat"
+        },
+        "about": {
+            "me": "https://pi-pool.adamantium.online/",
+            "server": "Raspberry Pi Pool, Solar DIY Tesla powerwall, Starlink, Off The Grid",
+            "company": "🌟 Star Forge ⚡"
+        },
+    "my-pool-ids": {
+        "0": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae"
+    },
+    "when-satured-then-recommend": {
+        "0": "1fd1a22c53e08de6bae42053ce40d5c0f7e0b52b33eb728867505a36",
+        "1": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
+    },
+    "telegram-admin-handle": {
+        "0": "WCat [OTG]"
+        }
+    }
+}
