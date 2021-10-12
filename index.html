@@ -361,27 +361,27 @@
           </div>
         </div>
         <div class="col" id="main">
-          <h1 class="mb-4">Highly Efficient Solar Powered Stake Pool</h1>
+          <h1 class="mb-4">Most Efficient Stake Pool on Cardano</h1>
 
           <h2 class="">🌟 About</h2>
           <p>Hello, my name is <a href="https://armada-alliance.com/identities/wcat-otg">WCat</a>. I run a totally off the grid stakepool using solar panels, batteries and Starlink. I am a founding member of the Armada Alliance & spend most of my time helping single stake pool operators run on efficient arm based computers.</p>
-          <p>Learn how to run cardano-node on a Raspberry Pi 4 & interact with the blockchain or build a stake pool.</p>
+          <p>Learn how to run cardano-node on a Raspberry Pi 4 & interact with the blockchain or build a stake pool. My image & guide can be found here.</p>
+          <a href="https://docs.armada-alliance.com/learn/intermediate-guide/pi-pool-tutorial"><img src="https://bafybeiak4p54hnxz4bhk3p7mec2ktsdaim4d6ppj5566nwvrvp262phjda.ipfs.infura-ipfs.io/" width="50" loading="lazy"></a>
           <p>I have a post that was <a href="https://twitter.com/IOHK_Charles/status/1413841059507998722?s=09">retweeted by Charles</a> that I am proud of. I have met so many awesome people, most of which are stake pool operators.</p>
 
           <h2 class="">🌟 Durability</h2>
           <p>Running a block producer from home allows for the greatest level of security & a few tricks for failover. Protected by the latest version of <a rel="nofollow" href="https://openwrt.org/">OpenWRT</a> and the <a rel="nofollow"
               href="https://www.turris.com/en/omnia/overview/">Turris Omnia</a> the block producer is protected on a seperate vlan with
             it's own 1 Gbps interface connected directly to Starlinks power brick.
-          <p>Consistant time synchronization with an average max.error of 11ms or less, backup nodes in
-            sync ready to be swapped incase of a problem.
-            @ just 14 watts using buck converters right off the battery the powerwall is capable of running the pool for over a week before depletion. We intend to have Starlink in the future for a truly off the grid pool with a third
-            relay local. Along with continuing to expand upon solar infrastructure.</p>
+          <p>The entire stake pool uses less than 100 watts of electricity, including Starlink!</p>
+          </p>The original battery I hand built from reclaimed laptop batteries has been retired due to Starlinks requirements. The pool now has 11KwH's of LiFePo4 starage and can run for 5 days without any sunlight.</p>
 
           <h2 class="">🌟 Security & Privacy</h2>
           <p>The Turris Omnia is an amazing router with <a rel="nofollow" href="https://www.knot-dns.cz/">Knot Resolver</a> providing <a rel="nofollow" href="https://www.ionos.com/digitalguide/server/security/dns-over-tls/">DNS over TLS (DoT)</a> &
-            <a rel="nofollow" href="https://www.dnssec.net/">DNSSEC<a /> validating '<a rel="nofollow" href="https://dnssec-debugger.verisignlabs.com/adamantium.online">adamantium.online</a>'.
+            <a rel="nofollow" href="https://www.dnssec.net/">DNSSEC</a> validating '<a rel="nofollow" href="https://dnssec-debugger.verisignlabs.com/adamantium.online">adamantium.online</a>'.
           </p>
           <h2>OpSec</h2>
+          <p>All communication to the M1 Mini core is through Wireguard UDP VPN's. Essentially the pool looks like a couple encrypted webcam feeds on the wire. Network failover to a broadband ISP with DDNS updating DNS records.</p>
           <ul>
             <li><a rel="nofollow" href="https://haas.nic.cz/">Honeypot as a Service (HaaS)</a></li>
             <li><a rel="nofollow" href="https://www.ionos.com/digitalguide/server/security/dns-over-tls/">DNS over TLS (DoT)</a></li>
@@ -389,12 +389,8 @@
             <li><a rel="nofollow" href="https://tools.ietf.org/html/bcp38">Source Address Spoofing Protection (BCP38)</a></li>
           </ul>
           <h2>Powerwall Specs</h2>
-          <ul>
-            <li>11.6 Kwh LiFePo4 batteries(homemade LiIon batteries have been retired.</li>
-            <li></li>
-            <li>Victron MPPT 150|35 charge controller</li>
-            <li>Victron Pheonix 12|1200 Pure Sinewave Inverter</li>
-          </ul>
+          <p>The current list of hardware can be found on the <a class="btn btn-large btn-outline-info" aria-current="true" href="https://armada-alliance.com/stake-pools/c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae">Armada Alliance</a> website under my pools page.</p>
+          <h2>Thank you for checking out my project. Please support my work by delegating your ada to my pool.           <a class="btn btn-large btn-outline-success" type="button" onclick="handleDelegate()">Stake With Me</a></h>
         </div>
       </div>
     </div>
