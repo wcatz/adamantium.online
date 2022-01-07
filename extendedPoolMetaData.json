@@ -10,8 +10,8 @@
             "github_handle": "wcatz"
         },
         "about": {
-            "me": "https://ada-pi.gitbook.io/raspi-spo/intermediate-guide/pi-pool-tutorial",
-            "server": "Mac M1 Mini native Linux! Raspberry Pi Relays, DIY Tesla powerwall, Starlink(coming soon), Off The Grid Solar Pool lest than 20 watts",
+            "me": "https://armada-alliance.com/guides/run-a-cardano-node-using-a-prebuilt-image",
+            "server": "Fully ARMed stake pool using 100 watts +-. Starlink, Solar, Off The Grid",
             "company": "🌟 Star Forge ⚡"
         },
     "my-pool-ids": {
