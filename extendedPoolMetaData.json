@@ -21,5 +21,10 @@
         "0": "1fd1a22c53e08de6bae42053ce40d5c0f7e0b52b33eb728867505a36",
         "1": "2a748e3885f6f73320ad16a8331247b81fe01b8d39f57eec9caa5091"
     }
+    },
+    "votes": {
+        "https://cips.cardano.org/cips/cip23/": {
+            "vote": "Yes"
+        }
     }
 }
