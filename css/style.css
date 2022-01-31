@@ -49,21 +49,25 @@ body {
 }
 
 .alert {
-    border-radius: 6px;
+  border-radius: 6px;
 }
 
 input.form-control {
-    border-radius: 6px;
+  border-radius: 6px;
 }
 
-h1, h3 {
-    margin-top: 3rem;
+h1,
+h3 {
+  margin-top: 3rem;
 }
 
 h2 {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
+.alert.alert-info.alert-dismissable {
+  display: inline-block;
+}
 .container,
 .container-fluid,
 .container-lg,
@@ -91,8 +95,8 @@ h2 {
 }
 
 footer.footer {
-    margin-top: 40px;
-    display: none;
+  margin-top: 40px;
+  display: none;
 }
 
 li {
