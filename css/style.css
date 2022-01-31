@@ -43,9 +43,29 @@ body {
   background-attachment: fixed;
 }
 
-body {
-  color: #e1e1e1;
-  background-color: #222;
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+}
+
+li {
+    padding: 20px;
 }
 .text-primary {
     color: #375a7f !important;
