@@ -66,6 +66,10 @@ h2 {
   margin-top: 3rem;
 }
 
+input.form-control {
+  text-align: center;
+}
+
 .alert.alert-info.alert-dismissable {
   display: inline-block;
 }
