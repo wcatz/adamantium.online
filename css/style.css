@@ -56,8 +56,12 @@ input.form-control {
     border-radius: 6px;
 }
 
-h1, h2, h3 {
+h1, h3 {
     margin-top: 3rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
 }
 
 .container,
@@ -86,9 +90,10 @@ h1, h2, h3 {
   justify-content: center;
 }
 
-footer {
-  bottom: 0;
-  margin-top: 20px;
+footer.footer {
+    position: absolute;
+    bottom: 0;
+    margin-top: 40px;
 }
 
 li {
