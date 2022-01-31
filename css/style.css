@@ -92,6 +92,7 @@ h2 {
 
 footer.footer {
     margin-top: 40px;
+    display: none;
 }
 
 li {
