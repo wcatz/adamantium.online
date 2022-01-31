@@ -48,6 +48,18 @@ body {
   background-attachment: fixed;
 }
 
+.alert.alert-warning.alert-dismissable {
+    border-radius: 6px;
+}
+
+input.form-control {
+    border-radius: 6px;
+}
+
+h1, h2, h3 {
+    margin-top: 3rem;
+}
+
 .container,
 .container-fluid,
 .container-lg,
@@ -75,7 +87,6 @@ body {
 }
 
 footer {
-  position: absolute;
   bottom: 0;
 }
 
