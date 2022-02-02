@@ -56,14 +56,8 @@ input.form-control {
   border-radius: 6px;
 }
 
-h1,
-h3 {
-  margin-top: 3rem;
-}
-
-h2 {
-  margin-bottom: 2rem;
-  margin-top: 3rem;
+.btn {
+  border-radius: 6px;
 }
 
 input.form-control {
